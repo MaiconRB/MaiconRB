@@ -1,5 +1,5 @@
 # Olá mundo, me chamo Maicon 👋
-#### Profissional de TI com mais de 2 anos de experiência em análise de sistemas e desenvolvimento de software. Focado em o back-end com .Net, .Net Core e C#. Trabalho com metodologias ágeis. Sou uma pessoa com alta energia, disposto a ajudar e entusiasmado para aprender. Me considero uma pessoa geek (gosto de jogos, séries, filmes e animes).
+#### Sou profissional de TI com mais de 2 anos de experiência em análise de sistemas e desenvolvimento de software. Focado em o back-end com .Net, .Net Core e C#. Trabalho com metodologias ágeis. Sou uma pessoa com alta energia, disposto a ajudar e entusiasmado para aprender. Me considero uma pessoa geek (gosto de jogos, séries, filmes e animes).
 
 ### Meus contatos:
 
@@ -7,10 +7,12 @@
   <a href="https://www.linkedin.com/in/maiconrb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contato.maiconrb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://wa.me/5538991880669" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+</div>
 
 ### Minhas Skills:
-</div>
+
 <div style="display: inline_block">
+  <a href="https://github.com/MaiconRB">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -28,7 +30,7 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <a href="https://github.com/MaiconRB">
+
 </div>
 <div align="center"><br><br>
   <a href="https://github.com/MaiconRB">
