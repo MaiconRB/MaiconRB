@@ -1,5 +1,5 @@
 # Olá mundo, me chamo Maicon 👋
-#### Sou profissional de TI com mais de 2 anos de experiência em análise de sistemas e desenvolvimento de software. Focado em o back-end com .Net, .Net Core e C#. Trabalho com metodologias ágeis. Sou uma pessoa com alta energia, disposto a ajudar e entusiasmado para aprender. Me considero uma pessoa geek (gosto de jogos, séries, filmes e animes).
+#### Sou profissional de TI com quase 3 anos de experiência em análise de sistemas e desenvolvimento de software. Focado em o back-end com .Net, .Net Core e C#. Trabalho com metodologias ágeis. Sou uma pessoa com alta energia, disposto a ajudar e entusiasmado para aprender. Me considero uma pessoa geek (gosto de jogos, séries, filmes e animes).
 
 ### Meus contatos:
 
