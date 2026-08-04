@@ -1,5 +1,9 @@
 # Olá mundo, me chamo Maicon 👋
-#### Sou profissional de TI com quase 3 anos de experiência em análise de sistemas e desenvolvimento de software. Focado em o back-end com .Net, .Net Core e C#. Trabalho com metodologias ágeis. Sou uma pessoa com alta energia, disposto a ajudar e entusiasmado para aprender. Me considero uma pessoa geek (gosto de jogos, séries, filmes e animes).
+#### Sou Engenheiro de Software com quase 5 anos de experiência construindo soluções robustas no ecossistema .NET — com foco em um dos desafios mais críticos e valorizados do mercado corporativo: integrações entre sistemas complexos.
+No dia a dia, trabalho com desenvolvimento e modernização de APIs REST, integração de dados entre ERPs e o ecossistema SAP, e sustentação de aplicações em produção com alta disponibilidade. Sei o que é receber uma chamada N2/N3 com um sistema parado e precisar resolver rápido — e essa vivência me tornou um desenvolvedor muito mais analítico e resiliente.
+Meu stack principal gira em torno de C#, .NET / .NET Core, ASP.NET Core, SQL Server e Entity Framework Core. No lado da qualidade, aplico testes unitários com xUnit e Moq, documento APIs com Swagger e gerencio entregas via Git e Azure DevOps.
+Trabalho com os princípios de Clean Architecture e, mais recentemente, incorporei ferramentas de IA Generativa (LLMs, Code Generation e Prompt Engineering) ao meu fluxo de desenvolvimento — o que acelerou significativamente minha produtividade na escrita e revisão de código.
+Se você procura um desenvolvedor que entende o negócio por trás do código, resolve problemas reais em produção e entrega com qualidade, vamos conversar.
 
 ### Meus contatos:
 
