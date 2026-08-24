@@ -1,8 +1,8 @@
 <h1 align="center">Olá, mundo! 👋 Me chamo Maicon</h1>
-<h3 align="center">Engenheiro de Software | .NET | IA | Integrações de Sistemas</h3>
+<h3 align="center">Engenheiro de Software (.NET) rumo a Arquiteto de IA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5C2D91&center=true&vCenter=true&width=600&lines=C%23+%2F+.NET+%2F+.NET+Core;ASP.NET+Core+%2B+Angular;Integra%C3%A7%C3%B5es+ERP+%E2%86%94+SAP;Clean+Architecture+%2B+IA+aplicada+ao+dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5C2D91&center=true&vCenter=true&width=600&lines=C%23+%2F+.NET+%2F+.NET+Core;ASP.NET+Core+%2B+Angular;Integra%C3%A7%C3%B5es+de+Sistemas;Clean+Architecture+%2B+IA+aplicada+ao+dev" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 Sou Engenheiro de Software com quase 5 anos de experiência construindo soluções robustas no ecossistema **.NET**, com foco em um dos desafios mais críticos do mercado corporativo: **integrações entre sistemas complexos**.
 
-No dia a dia, trabalho com desenvolvimento e modernização de **APIs REST**, integração de dados entre **ERPs e o ecossistema SAP**, e sustentação de aplicações em produção com alta disponibilidade. Sei o que é receber uma chamada N2/N3 com um sistema parado e precisar resolver rápido — e essa vivência me tornou um desenvolvedor mais analítico e resiliente.
+No dia a dia, trabalho com desenvolvimento e modernização de **APIs REST**, integração de dados entre **ERPs e sistemas corporativos**, e sustentação de aplicações em produção com alta disponibilidade. Sei o que é receber uma chamada N2/N3 com um sistema parado e precisar resolver rápido — e essa vivência me tornou um desenvolvedor mais analítico e resiliente.
 
 Aplico os princípios de **Clean Architecture**, garanto qualidade com **testes unitários (xUnit/Moq)** e documento APIs com **Swagger**, sempre gerenciando entregas via **Git** e **Azure DevOps**.
 
@@ -57,7 +57,6 @@ Estou me aprofundando de forma estruturada nessa área:
   <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=nunit&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
@@ -75,7 +74,6 @@ Estou me aprofundando de forma estruturada nessa área:
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MaiconRB&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiconRB&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
