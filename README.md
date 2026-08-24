@@ -73,11 +73,9 @@ Estou me aprofundando de forma estruturada nessa área:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MaiconRB&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconRB&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://img.shields.io/github/followers/MaiconRB?label=Seguidores&style=for-the-badge&color=5C2D91&logo=github"/>
+  <img src="https://img.shields.io/github/stars/MaiconRB?label=Stars&style=for-the-badge&color=5C2D91&logo=github"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MaiconRB&label=Repositórios&query=public_repos&style=for-the-badge&color=5C2D91&logo=github"/>
 </p>
 
 ---
